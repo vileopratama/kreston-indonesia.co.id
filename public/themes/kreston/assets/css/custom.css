@@ -1,0 +1,42 @@
+.btn-default {
+	background:#b20000;
+	border-color:#cc0000;
+	color:#FFFFFF;
+}
+.btn-default:hover {
+	color:#fff;
+	background-color:#005B7F;
+	border-color:#005A7F;
+}
+#footer .footer-bottom {
+  background:#02366A;
+  border-top-width:1px;
+  font-size:11px;
+  line-height:17px;
+  padding:5px 0 5px;
+}
+
+/* Tooltip */
+.latest-post + .tooltip > .tooltip-inner {
+      background-color: #cc0000;
+      color: #FFFFFF;
+      border: 1px solid #ff0000;
+      padding: 10px;
+      font-size: 8pt;
+}
+  
+  /* Tooltip on bottom */
+.latest-post + .tooltip.bottom > .tooltip-arrow {
+      border-bottom: 5px solid #cc0000;
+}
+
+.footer-mailchimp {
+    color: #fff;
+    background-color: #b84d45;
+    padding: 50px 0;
+    background-image: url('../img/bg.png');
+}
+
+.footer-mailchimp p {
+	color: #fff;
+}

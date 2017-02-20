@@ -1,0 +1,7 @@
+.btn-default {
+	background-color:#02366a;
+	border:1px solid #071c30;
+}
+.btn.btn-default, .btn.btn-border, .minimized-menu .primary .navbar .nav > .parent.active > a, .minimized-menu .primary .navbar .nav > .parent.active:hover a {
+    border: none;
+}

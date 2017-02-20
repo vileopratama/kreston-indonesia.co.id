@@ -1,0 +1,150 @@
+[26-Sep-2016 13:46:16 UTC] PHP Warning:  require(/home/krestoni/public_html/kreston-portal/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php on line 17
+[26-Sep-2016 13:46:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/krestoni/public_html/kreston-portal/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php on line 17
+[27-Sep-2016 03:39:38 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:39:38 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:39:38 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 03:39:51 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:39:51 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:39:51 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 03:41:24 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:41:24 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:41:24 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 03:49:17 UTC] PHP Warning:  require(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravelcollective/html/src/helpers.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_real.php on line 66
+[27-Sep-2016 03:49:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravelcollective/html/src/helpers.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_real.php on line 66
+[27-Sep-2016 03:49:28 UTC] PHP Warning:  require(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravelcollective/html/src/helpers.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_real.php on line 66
+[27-Sep-2016 03:49:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravelcollective/html/src/helpers.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_real.php on line 66
+[27-Sep-2016 03:57:20 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:57:20 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 03:57:20 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 04:04:20 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:04:20 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:04:20 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 04:12:22 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:12:22 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:12:22 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 04:28:37 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:28:37 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:28:37 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 04:38:06 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:38:06 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:38:06 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 04:43:15 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:43:15 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:43:15 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 04:47:32 UTC] PHP Warning:  include(/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:47:32 UTC] PHP Warning:  include(): Failed opening '/home/krestoni/public_html/kreston-portal/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 414
+[27-Sep-2016 04:47:32 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[27-Sep-2016 08:47:27 UTC] PHP Parse error:  syntax error, unexpected ''/laravel/framework/src/Illumi' (T_ENCAPSED_AND_WHITESPACE) in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_static.php on line 1100
+[27-Sep-2016 08:47:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/krestoni/public_html/kreston-portal/vendor/composer/ClassLoader.php on line 289
+[28-Sep-2016 07:36:10 UTC] PHP Warning:  Unterminated comment starting line 31 in /home/krestoni/public_html/kreston-portal/config/database.php on line 31
+[28-Sep-2016 07:36:10 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected end of file, expecting ']' in /home/krestoni/public_html/kreston-portal/config/database.php:41
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(253): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\F in /home/krestoni/public_html/kreston-portal/config/database.php on line 41
+[28-Sep-2016 07:36:19 UTC] PHP Warning:  Unterminated comment starting line 31 in /home/krestoni/public_html/kreston-portal/config/database.php on line 31
+[28-Sep-2016 07:36:19 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected end of file, expecting ']' in /home/krestoni/public_html/kreston-portal/config/database.php:41
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(253): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\F in /home/krestoni/public_html/kreston-portal/config/database.php on line 41
+[28-Sep-2016 07:40:04 UTC] PHP Warning:  Unterminated comment starting line 31 in /home/krestoni/public_html/kreston-portal/config/database.php on line 31
+[28-Sep-2016 07:40:04 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected end of file, expecting ']' in /home/krestoni/public_html/kreston-portal/config/database.php:41
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(253): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\F in /home/krestoni/public_html/kreston-portal/config/database.php on line 41
+[28-Sep-2016 07:40:12 UTC] PHP Warning:  Unterminated comment starting line 31 in /home/krestoni/public_html/kreston-portal/config/database.php on line 31
+[28-Sep-2016 07:40:12 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected end of file, expecting ']' in /home/krestoni/public_html/kreston-portal/config/database.php:41
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(253): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\F in /home/krestoni/public_html/kreston-portal/config/database.php on line 41
+[28-Sep-2016 08:16:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 08:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 08:22:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 08:34:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 08:38:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 17:31:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 17:42:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 17:42:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit58be4fec3a8b7384d72e0edc0aa9b61b' not found in /home/krestoni/public_html/kreston-portal/vendor/autoload.php:7
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/bootstrap/autoload.php(17): require()
+#1 /home/krestoni/public_html/kreston-portal/public/index.php(22): require('/home/krestoni/...')
+#2 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/autoload.php on line 7
+[28-Sep-2016 17:43:00 UTC] PHP Warning:  require(/home/krestoni/public_html/kreston-portal/vendor/composer/../guzzlehttp/psr7/src/functions_include.php): failed to open stream: No such file or directory in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_real.php on line 66
+[28-Sep-2016 17:43:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/krestoni/public_html/kreston-portal/vendor/composer/../guzzlehttp/psr7/src/functions_include.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_real.php on line 66
+[05-Oct-2016 15:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Artesaos\SEOTools\Providers\SEOToolsServiceProvider' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:610
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(561): Illuminate\Foundation\Application->resolveProviderClass('Artesaos\\SEOToo...')
+#1 /home/krestoni/public_html/kreston-portal/bootstrap/app.php(55): Illuminate\Foundation\Application->register('Artesaos\\SEOToo...')
+#2 /home/krestoni/public_html/kreston-portal/public/index.php(36): require_once('/home/krestoni/...')
+#3 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 610
+[05-Oct-2016 15:47:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Artesaos\SEOTools\Providers\SEOToolsServiceProvider' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:610
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(561): Illuminate\Foundation\Application->resolveProviderClass('Artesaos\\SEOToo...')
+#1 /home/krestoni/public_html/kreston-portal/bootstrap/app.php(55): Illuminate\Foundation\Application->register('Artesaos\\SEOToo...')
+#2 /home/krestoni/public_html/kreston-portal/public/index.php(36): require_once('/home/krestoni/...')
+#3 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 610
+[05-Oct-2016 15:48:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Artesaos\SEOTools\Providers\SEOToolsServiceProvider' not found in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:610
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(561): Illuminate\Foundation\Application->resolveProviderClass('Artesaos\\SEOToo...')
+#1 /home/krestoni/public_html/kreston-portal/bootstrap/app.php(55): Illuminate\Foundation\Application->register('Artesaos\\SEOToo...')
+#2 /home/krestoni/public_html/kreston-portal/public/index.php(36): require_once('/home/krestoni/...')
+#3 {main}
+  thrown in /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 610
+[06-Oct-2016 23:31:55 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ')', expecting ']' in /home/krestoni/public_html/kreston-portal/config/lfm.php:32
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(253): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\Foundation\Htt in /home/krestoni/public_html/kreston-portal/config/lfm.php on line 32
+[06-Oct-2016 23:31:56 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ')', expecting ']' in /home/krestoni/public_html/kreston-portal/config/lfm.php:32
+Stack trace:
+#0 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(253): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/krestoni/public_html/kreston-portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\Foundation\Htt in /home/krestoni/public_html/kreston-portal/config/lfm.php on line 32
+[08-Oct-2016 11:36:24 UTC] PHP Parse error:  syntax error, unexpected ''Symf' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/krestoni/public_html/kreston-portal/vendor/composer/autoload_static.php on line 162
