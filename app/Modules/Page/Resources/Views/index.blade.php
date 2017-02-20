@@ -21,9 +21,6 @@
             </aside><!-- .menu-->
 			@endif
 			
-			
-			
-			
         </div><!-- .sidebar -->
     </div>
 @endsection
